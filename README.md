@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MurtadhaAlhgam
-- 👀 I’m interested in Robotics and Emedded Systems.
+- 👀 I’m interested in Software side for Robotics and Emedded Systems.
 - 🌱 I’m currently learning Emedded Systems
 
 
